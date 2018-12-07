@@ -10,6 +10,4 @@ Its a function which takes in "Images" as an argument.
 3) Use Canny Edge to extract edges
 4) Invert binarize the image
 
-<video width="320" height="240" controls>
-  <source src="LiveSketch.mp4" type="video/mp4">
-</video>
+![alt text](https://github.com/dPacc/Live_Sketch/LiveSketch.gif")
