@@ -10,4 +10,4 @@ Its a function which takes in "Images" as an argument.
 3) Use Canny Edge to extract edges
 4) Invert binarize the image
 
-![alt text](https://github.com/dPacc/Live_Sketch/blob/master/LiveSketch.gif")
+![alt text](https://github.com/dPacc/Live_Sketch/blob/master/LiveSketch.gif)
